@@ -23,9 +23,12 @@ You can reach me via Gmail <a href="mailto:harshasri910@gmail.com" target="_blan
  <h3>⚡ Fun Fact </h3>
 Did you know that the term "Wi-Fi" doesn't actually stand for anything specific? It was simply a term coined to sound catchy and memorable for marketing purposes.
 
-Thanks for stopping by! Don't forget to check out my projects below and feel free to connect with me.
 
-<p align='center'><img src='https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif' width='300' height='150'></p>
+<h5> <br> <br>Feel free to explore my projects, ask questions, or even collaborate with me on future endeavors. I'm excited to connect with like-minded individuals 
+and work together to build amazing things. </h5>
+
+
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechGeno)](https://github.com/TechGeno)
